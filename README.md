@@ -1,1 +1,1 @@
-# Personal-projects-Data-Analyst
+# World CO2 emission dashboard
